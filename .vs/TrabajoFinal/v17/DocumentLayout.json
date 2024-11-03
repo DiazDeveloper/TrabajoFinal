@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Entidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Entidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MenuInicio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\MenuInicio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Shotgun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Shotgun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Shotgun.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Shotgun.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Entidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Entidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MenuInicio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\MenuInicio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF2838B-F976-4ACF-B94E-E5BCA3DD194E}|TrabajoFinal\\TrabajoFinal.vcxproj|solutionrelative:TrabajoFinal\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shotgun.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Shotgun.h",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Shotgun.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Shotgun.h",
+              "RelativeToolTip": "TrabajoFinal\\Shotgun.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T01:53:07.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shotgun.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Shotgun.cpp",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Shotgun.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Shotgun.cpp",
+              "RelativeToolTip": "TrabajoFinal\\Shotgun.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T01:56:16.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Enemy.h",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Enemy.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Enemy.h",
+              "RelativeToolTip": "TrabajoFinal\\Enemy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T00:45:35.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Enemy.cpp",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Enemy.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Enemy.cpp",
+              "RelativeToolTip": "TrabajoFinal\\Enemy.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T00:46:28.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Juego.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Juego.cpp",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Juego.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Juego.cpp",
+              "RelativeToolTip": "TrabajoFinal\\Juego.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAtwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T22:52:34.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Player.h",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Player.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Player.h",
+              "RelativeToolTip": "TrabajoFinal\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T22:02:10.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Player.cpp",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Player.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Player.cpp",
+              "RelativeToolTip": "TrabajoFinal\\Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T22:02:50.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuInicio.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MenuInicio.h",
+              "RelativeDocumentMoniker": "TrabajoFinal\\MenuInicio.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MenuInicio.h",
+              "RelativeToolTip": "TrabajoFinal\\MenuInicio.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T21:12:02.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuInicio.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MenuInicio.cpp",
+              "RelativeDocumentMoniker": "TrabajoFinal\\MenuInicio.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MenuInicio.cpp",
+              "RelativeToolTip": "TrabajoFinal\\MenuInicio.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T21:12:13.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Juego.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Juego.h",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Juego.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Juego.h",
+              "RelativeToolTip": "TrabajoFinal\\Juego.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T20:50:51.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MyForm.h",
+              "RelativeDocumentMoniker": "TrabajoFinal\\MyForm.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MyForm.h",
+              "RelativeToolTip": "TrabajoFinal\\MyForm.h",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T20:58:52.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Background.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Background.h",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Background.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Background.h",
+              "RelativeToolTip": "TrabajoFinal\\Background.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T20:07:27.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Background.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Background.cpp",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Background.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Background.cpp",
+              "RelativeToolTip": "TrabajoFinal\\Background.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T20:09:25.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entidad.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Entidad.h",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Entidad.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Entidad.h",
+              "RelativeToolTip": "TrabajoFinal\\Entidad.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T03:43:31.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entidad.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Entidad.cpp",
+              "RelativeDocumentMoniker": "TrabajoFinal\\Entidad.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\Entidad.cpp",
+              "RelativeToolTip": "TrabajoFinal\\Entidad.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T03:44:51.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MyForm.h",
+              "RelativeDocumentMoniker": "TrabajoFinal\\MyForm.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\TrabajoFinal\\TrabajoFinal\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "TrabajoFinal\\MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T00:52:41.55Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

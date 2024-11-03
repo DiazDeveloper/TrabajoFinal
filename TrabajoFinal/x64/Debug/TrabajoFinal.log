@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+D:\Algoritmos\Semana 12\TrabajoFinal\TrabajoFinal\MyForm.h(44,109): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+D:\Algoritmos\Semana 12\TrabajoFinal\TrabajoFinal\MyForm.h(44,66): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+  Background.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TrabajoFinal.vcxproj -> D:\Algoritmos\Semana 12\TrabajoFinal\x64\Debug\TrabajoFinal.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
